@@ -5,10 +5,10 @@
   "description": "Учебный проект «Код и Магия» от HTML Academy",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:KashinAlexey/1903811-code-and-magick-24.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/KashinAlexey/1903811-code-and-magick-24/issues"
   },
   "devDependencies": {
     "eslint": "7.1.0",
