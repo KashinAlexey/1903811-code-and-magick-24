@@ -1,8 +1,8 @@
-root: true
 
-env:
-  es6: true
-  browser: true
-
-extends:
-  "htmlacademy/es5.5"
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  }
+}
